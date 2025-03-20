@@ -6,6 +6,11 @@
   "engines": {
     "vscode": "^1.98.0"
   },
+  "publisher": "HaimanotGetu",
+  "repository": {
+    "url": "https://github.com/HaimanotG/number-comma-convertor.git",
+    "type": "vscode"
+  },
   "categories": [
     "Other"
   ],
